@@ -1,0 +1,6 @@
+{
+  "name": "BharatLedger - Modern Local-First GST ERP",
+  "description": "Modern offline-first GST billing, inventory management, and double-entry accounting application for Indian businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
